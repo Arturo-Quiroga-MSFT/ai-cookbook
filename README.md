@@ -4,7 +4,7 @@ The modified code can work using Azure OpenAI models, instead of OpenAI models.
 
 The new code is in subdir "Agents-Azure"
 
-Below is the original introduction.
+**Below is the original introduction.**
 
 
 # Introduction
