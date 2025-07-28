@@ -1,10 +1,12 @@
-# This repo contains tailored code from the original repo found at https://github.com/daveebbelaar/ai-cookbook
+## This repo contains added code to the original repo found at https://github.com/daveebbelaar/ai-cookbook, created by Dave Ebbelar and explained in his youtube video here [https://www.youtube.com/@daveebbelaar ](https://www.youtube.com/watch?v=T1Lowy1mnEg&t=72s)
 
-The modified code can work using Azure OpenAI models, instead of OpenAI models.
+### The added code can work using Azure OpenAI models, instead of OpenAI models.
 
-The new code is in subdir "Agents-Azure"
+### The new code is in subdir "Agents-Azure", "Patterns-Azure", and "mcp/crash-course/4a-azure-openai-integration"
 
-**Below is the original introduction.**
+#### Below is the original introduction by Dave Ebbelar.
+
+
 
 
 # Introduction
