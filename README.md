@@ -1,3 +1,12 @@
+# This repo contains tailored code from the original repo found at https://github.com/daveebbelaar/ai-cookbook
+
+The modified code can work using Azure OpenAI models, instead of OpenAI models.
+
+The new code is in subdir "Agents-Azure"
+
+Below is the original introduction.
+
+
 # Introduction
 
 This Cookbook contains examples and tutorials to help developers build AI systems, offering copy/paste code snippets that you can easily integrate into your own projects.
