@@ -1,10 +1,29 @@
-## This repo contains added code to the original repo found at https://github.com/daveebbelaar/ai-cookbook, created by Dave Ebbelaar and explained in his youtube video here: [https://www.youtube.com/@daveebbelaar ](https://www.youtube.com/watch?v=T1Lowy1mnEg&t=72s)
+## Azure OpenAI Cookbook - Extended from Dave Ebbelaar's AI Cookbook
 
-### The added code can work using Azure OpenAI models, instead of OpenAI models. For anyone interested in testing Dave's ideas, on Azure OpenAI.
+This repository extends the excellent work by **Dave Ebbelaar** from his original [AI Cookbook](https://github.com/daveebbelaar/ai-cookbook). Dave's educational content and practical tutorials on his [YouTube channel](https://www.youtube.com/@daveebbelaar) provide invaluable insights into building real-world AI systems.
 
-### The new code is in subdir "Agents-Azure", "Patterns-Azure", and "mcp/crash-course/4a-azure-openai-integration"
+### Why Azure OpenAI Extensions Were Needed
 
-#### Below is the original introduction by Dave Ebbelar.
+Many organizations and developers work within Azure ecosystems and require:
+- **Enterprise-grade security** with Azure's compliance and governance features
+- **Managed Identity authentication** for secure, keyless access
+- **Integration with existing Azure services** like Key Vault, Monitor, and App Services
+- **Regional data residency** requirements for regulatory compliance
+- **Cost optimization** through Azure's pricing models and enterprise agreements
+
+### Azure OpenAI Additions
+
+The following directories contain Azure OpenAI implementations of Dave's original concepts:
+
+- **`Agents-Azure/`** - Agent building blocks using Azure OpenAI services
+- **`patterns-Azure/`** - LLM workflow patterns adapted for Azure OpenAI
+- **`mcp/crash-course/4a-azure-openai-integration/`** - Model Context Protocol integration with Azure OpenAI
+
+All code maintains the same educational approach and practical focus as Dave's original work, while providing Azure-specific implementations with proper authentication, error handling, and production-ready patterns.
+
+---
+
+#### Original Introduction by Dave Ebbelaar
 
 
 
