@@ -15,9 +15,10 @@ Many organizations and developers work within Azure ecosystems and require:
 
 The following directories contain Azure OpenAI implementations of Dave's original concepts:
 
-- **`Agents-Azure/`** - Agent building blocks using Azure OpenAI services
-- **`patterns-Azure/`** - LLM workflow patterns adapted for Azure OpenAI
+- **`Agents-Azure/`** - Agent building blocks using Azure OpenAI services, includes python code and notebooks
+- **`patterns-Azure/`** - LLM workflow patterns adapted for Azure OpenAI, includes python code and notebooks
 - **`mcp/crash-course/4a-azure-openai-integration/`** - Model Context Protocol integration with Azure OpenAI
+
 
 All code maintains the same educational approach and practical focus as Dave's original work, while providing Azure-specific implementations with proper authentication, error handling, and production-ready patterns.
 
